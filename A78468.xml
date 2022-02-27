@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine considerations wherein the prelates doe acknowledge that they stand by the meer mercy of the King and Parliament; not having any foundation in Scripture. And that the King and Parliament may dispose of them, at their pleasure.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78468</idno>
+            <idno type="STC">Wing C1698</idno>
+            <idno type="STC">Thomason E131_17</idno>
+            <idno type="STC">ESTC R11567</idno>
+            <idno type="EEBO-CITATION">99859069</idno>
+            <idno type="PROQUEST">99859069</idno>
+            <idno type="VID">156336</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156336)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine considerations wherein the prelates doe acknowledge that they stand by the meer mercy of the King and Parliament; not having any foundation in Scripture. And that the King and Parliament may dispose of them, at their pleasure.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signatures: *⁴.</note>
+                  <note>Thomason copy bound with items from 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:156336:1" rendition="simple:additions"/>
+            <head>Certaine conſiderations wherein the Pre<g ref="char:EOLhyphen"/>lates doe acknowledge that they ſtand by the meer mercy of the King and Parliament; not ha<g ref="char:EOLhyphen"/>ving any foundation in Scripture. And that the King and Parliament may diſpoſe of them, at their pleaſure.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HAT the reaſon or cauſe ſhould be, that ſubſcription unto this booke of conſecration and ordination of Biſhops, Prieſts, and Deacons, hath beene of late yeares ſo hotly and egerly purſued by the Lords of the Clergy, is a myſtery, perhaps, not of many of the lay<g ref="char:EOLhyphen"/>ty well underſtood. And howſoever under colour of the maintenance of obedience to the ſtatute of the Realme, where<g ref="char:EOLhyphen"/>by this booke is confirmed, the ſame ſubſcription may ſeeme to bee preſſed: nevertheleſſe if the maine drift and reaſon of this preſſure, were well boulted out, it is to be feared, that not only the unlawful ſu<g ref="char:EOLhyphen"/>premacy of an Archbiſhop is ſought to be advanced above the lawful ſupremacy of our Soveraigne Lord King <hi>James;</hi> but alſo that the Sy<g ref="char:EOLhyphen"/>nodals, Canons and Conſtitutions made by the Clergy, in their con<g ref="char:EOLhyphen"/>vocation, are intended if not, to be preferred above, yet at leaſtwiſe to be made equall to the common law and ſtatues of the Realme.</p>
+            <p>By the ancient lawes and cuſtomes of the Realme, one parcell of the Kings juriſdiction and imperiall Crowne, hath evermore conſiſted in granting eccleſiaſticall juriſdiction, unto Archbiſhops, Biſhops and other Prelates. For the maintenance of which imperiall juriſdiction &amp; power, againſt the uſurped ſupremacy of the Biſhop of Rome, divers ſtatutes, not introductory of a new law, but declaratory of the old, in the time of King <hi>Henry</hi> the eight, King <hi>Edward</hi> the ſixth, and of our late moſt noble Queene deceaſed, have beene made and enacted.</p>
+            <p>Yea, and in a booke entituled <hi>The Inſtitution of a Chriſtian man,</hi> com<g ref="char:EOLhyphen"/>poſed by <hi>Thomas</hi> Archbiſhop of <hi>Canterbury, Edward</hi> Archbiſhop of <hi>Yorke</hi> &amp; all the Biſhops, divers Archdeacons &amp; Prelates of the Realme,
+<pb facs="tcp:156336:2"/>that then were,
+<note place="margin">Cooke de jure regis eccle. fol. 8 fol. 53. fol, 55.</note> dedicated alſo by them to King <hi>Henry</hi> the eighth, it is confeſſed and acknowledged, that the nomination and preſentation of the Biſhoprickes, appertained unto the Kings of this Realme. And that it was and ſhall be lawfull to Kings and Princes, and their Succeſſors, with conſent of their Parliaments, to revoke and call againe into their owne hands, or otherwiſe to reſtraine all the power and juriſdiction which was given and aſſigned to Prieſts and Biſhops, by the licence, conſent, ſufferance and authority of the ſame Kings and Princes, and not by authority of God and his Goſpell, whenſoever they ſhall have grounds and cauſes ſo to doe, as ſhall be neceſſary wholeſome, and ex<g ref="char:EOLhyphen"/>pedient for the Realmes, the repreſſing of vice, and the increaſe of Chri<g ref="char:EOLhyphen"/>ſtian faith and religion.</p>
+            <p>Ever ſince which time (untill of late yeares, the late Archbiſhop of Canterbury, with the counſell of his Colledge of Biſhops, altered that his opinion, which ſomtimes in his anſwer made to the admonition to the Parliament, he held) it was generally and publickely maintained, that the ſtate, power and juriſdiction of Provinciall and Dioceſan Bi<g ref="char:EOLhyphen"/>ſhops in England, ſtood not by any divine right, but meerly and alto<g ref="char:EOLhyphen"/>gether by humane policie and ordinance alone. And that therefore according to the firſt and beſt opinion and judgement of the ſaid Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops, &amp;c, the ſame their juriſdiction might be taken away and altered at the will and pleaſure of the Kings of England, whenſo<g ref="char:EOLhyphen"/>ever they ſhould have grounds and cauſes ſo to do.</p>
+            <p>Now ſince, when as the Diſcipline and government provinciall, &amp; dioceſan miniſtred and exerciſed by the late Archbiſhop deceaſed, and his Suffraganes, was diverſly handled, diſputed and contraverted, not to be agreeable, but repugnant to the holy Scriptures, &amp; neceſſary alſo for the repreſſing of vice, the encreaſe of faith and Chriſtan religion, to be changed; they hereupon juſtly fearing, that the moſt vertuous &amp; Chriſtian Queen deceaſed, upon ſundry complaints made in open Par<g ref="char:EOLhyphen"/>liament, againſt the r many unjuſt greevances, would have reformed the ſame their manner of government; they then preſently upon new adviſe and conſultation taken,
+<note place="margin">D. Sutclif. D. Bilſon.</note> boldly and conſtantly avouched the ſame their government, to have bin from the Apoſtles times, and a<g ref="char:EOLhyphen"/>greeable to the holy Scriptures; and therefore alſo perpetuall, and ſtill to be uſed, and in no caſe to be altered, by any King, or Potentate whatſoever.</p>
+            <p>By meanes of which this their enclining to the Popiſh opinion, and
+<pb facs="tcp:156336:2"/>holding their Iuriſdiction to be <hi>de jure divino,</hi> &amp; profeſſedly maintei<g ref="char:EOLhyphen"/>ning in the Homily (whereunto alſo ſubſcription is urged) that the King, and all the Nobility, ought to be ſubject to excommunication, there is now at length growne ſuch a maine poſition,
+<note place="margin">2. part of the right uſe of the Church.</note> of having a per<g ref="char:EOLhyphen"/>petuall Dioceſan and Provinciall government in the Church, that ra<g ref="char:EOLhyphen"/>ther then their Hierarchie ſhould ſtoop, they would cauſe the Kings Supremacie, which he hath over their ſaid Iuriſdiction, to fall downe to the ground: Inſomuch as by their ſuppoſition, the King hath no authoritie no not by his ſupreame power, to alter their ſaid govern<g ref="char:EOLhyphen"/>ment at all. And to this end and purpoſe (as it ſeemeth) in their late Canons have they deviſed and decreed, this booke of ordination, to be ſubſcribed unto. Which ſubſcription cannot but quite and cleane o<g ref="char:EOLhyphen"/>verthrow the Kings ſupremacie and ancient juriſdiction, in the moſt dangerous degree. For if their Provinciall and Dioceſan orders and degrees of Miniſtery, together with their juriſdiction, be to be uſed, (as eſtabliſhed and derived unto them by the holy ſcriptures) how then can it be in the power and juriſdiction of the King, to grant, or not to grant the uſe of Provincial and Dioceſan Biſhopiſme and juriſdicti<g ref="char:EOLhyphen"/>on? Or how may the Provinciall Biſhops, with their Dioceſan Suffra<g ref="char:EOLhyphen"/>ganes, be called the Kings Eccleſiaſticall officers, if their juriſdictions be not derived unto them from the King? For if they be called Gods Biſhops, or Biſhops of Gods making, how then may they any more be called the Kings Biſhops, or Biſhops of the Kings preſenting, nomi<g ref="char:EOLhyphen"/>nating and confirming?</p>
+            <p>Nay, beſides, who then can alter them? who can conſtrain them? who can revoke or recall their power and juriſdiction? who can reſiſt them? or what King of England may pluck his necke from under their yoke? Nay, how ſhould the Kings ſupremacie (as by the ancient Lawes of the Realme it ought) remaine inviolable,
+<note place="margin">If Dioceſan Biſhops bee Scripturely Biſhops, them may they ſtan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thout the King. Dioce<g ref="char:EOLunhyphen"/>ſan Biſhops hitherto up<g ref="char:EOLhyphen"/>held only by the lawes of the Realme.</note> when his Royall perſon, whole Nobility and Realme, is ſubject and liable to the cenſure of the Canon law, excommunication? Which law the Provinciall and Dioceſan Biſhops to this day, in right, and by vertue of their Provinci<g ref="char:EOLhyphen"/>all and Dioceſan juriſdiction, and none otherwiſe, do ſtill uſe, practiſe, and put in execution?</p>
+            <p>Beſides, if Biſhops Provinciall and Dioceſan (as they be deſcribed in that book) be commanded in the Scriptures, and were in uſe ever ſince the Apoſtles times, then ought they to bee in the Church of England, though the King and his law never allowed, nor approved of them.
+<pb facs="tcp:156336:3"/>But to hold this opinion, as it will uphold the Popes ſupremacy (be<g ref="char:EOLhyphen"/>cauſe the generall reaſons which uphold a Provinciall Biſhop, will up<g ref="char:EOLhyphen"/>hold a Pope) ſo will it once againe, not only impeach the Kings ſupre<g ref="char:EOLhyphen"/>macy, but alſo be repugnant to the lawes and cuſtomes of the Realme. By which ſupremacy, lawes and cuſtomes only, the provinciall &amp; dio<g ref="char:EOLhyphen"/>ceſan Biſhops have beene hitherto upheld. For ſeeing the lawes and cu<g ref="char:EOLhyphen"/>ſtomes of the Realme, doe make the Kings nomination, preſentation, and confirmation, the very eſſence and being of a Provinciall and Dio<g ref="char:EOLhyphen"/>ceſan Biſhop with us. So that theſe offices ought to be held only from the authority, gift and grant of the King: how ought not the Kings nomination, preſentation, authority and gift, yea and the law it ſelf, in this caſe wholly ceaſe, if the order, degree, miniſtery and juriſdiction of a Provinciall and Dioceſan Biſhop be founded in holy Scripture? Vn<g ref="char:EOLhyphen"/>leſſe we ſhall affirme, that that was in the Apoſtles times, which was not, or that, that it is to be found in holy Scripture, which is not name<g ref="char:EOLhyphen"/>ly, that there were in the Apoſtles times, and that there be in the holy Scriptures, no Biſhops but Provinciall and Dioceſan Biſhops to bee found. And that by the law of God and the Goſpell, every King and Potentate, hath ſupreme power to ſuffer none but Provinciall and Di<g ref="char:EOLhyphen"/>oceſan Biſhops to be in the Churches.</p>
+            <p>So that by ſubſcription to allow, that Provinciall and Dioceſan Bi<g ref="char:EOLhyphen"/>ſhops be Scripturely Biſhops, and that their juriſdiction and power, is a Scripturely juriſdiction and power, is to deny that their juriſdiction and power dependeth upon the Kings juriſdiction and power, or that by the Kings gift and authority they be made Biſhops.</p>
+            <p>But now doth ſubſcription (you will ſay) to the book of Ordinati<g ref="char:EOLhyphen"/>on, approve the orders and degrees of Provinciall &amp; Dioceſan Biſhops to be by divine right, rather then by humane ordinance? How? Why thus: It is evident (ſaith the preface of that book) to all men diligent<g ref="char:EOLhyphen"/>ly reading holy Scripture and ancient Authors, that from the Apoſtles times, there have been theſe orders of Miniſters in Chriſts Church, Biſhops, Prieſts, and Deacons. Yea and by the whole order of prayer, and of Scripture read &amp; uſed in the forme of conſecrating of an Arch<g ref="char:EOLhyphen"/>biſhop, or Biſhop, it is apparent that the order of an Archbiſhop or Biſhop, conſecrated by that book, is reputed and taken to be of Divine inſtitution. And therefore ſeeing the names of thoſe orders of Mini<g ref="char:EOLhyphen"/>ſters, muſt neceſſarily be taken and underſtood of ſuch orders of Mi<g ref="char:EOLhyphen"/>niſters, as be ſet forth and deſcribed in the body of that booke, it muſt
+<pb facs="tcp:156336:3"/>needs be intended, that the Miniſters by their ſubſcription, ſhould ap<g ref="char:EOLhyphen"/>prove the order of Miniſters, mentioned in that booke, to be of Divine inſtitution, and conſequently, that provinciall and dioteſan Miniſters, or Biſhops, have not their eſſence and being from the nomination, gift and authority of the King.</p>
+            <p>Beſides, if we ſhould underſtand by the word (Biſhop) him that hath the Miniſtry of the word and Sacraments, as the Paſtor and teacher; and by the word (Prieſt) the Presbyter, that is the Governing elder; and by the word (Deacon) the provider for the poore, then for the Miniſters to ſubſcribe to the booke of ordination, would no way juſtifie thoſe officers or degrees of Miniſters, which are deſcribed in that booke, but would indeed utterly ſubvert and overthrow them. Becauſe the orders and degrees of a provinciall and dioceſan Biſhop, of a Prieſt and Deacon mentioned in that booke, be of a farre diffe<g ref="char:EOLhyphen"/>ring nature from thoſe orders and degrees of Miniſters, which are mentioned in the Scriptures: becauſe they only agree in name, and not in nature.</p>
+            <p>Wherefore ſeeing there be other orders and degrees of Biſhops then Provincial &amp; Dioceſan Biſhops found in the holy Scriptures, &amp; ſeeing alſo Kings and Princes being <hi>Vicarij Dei,</hi> be commanded to authoriſe all things for the truth, and nothing againſt the truth: it ſeemeth ne<g ref="char:EOLhyphen"/>ceſſary that his Majeſty ſhould not only reſtraine the Provinciall and Dioceſan Biſhops, from urging ſubſcription to this booke of ordina<g ref="char:EOLhyphen"/>tion, (being ſo derogatory (in their ſence and conſtruction) to his ſu<g ref="char:EOLhyphen"/>premacy as nothing can be more,) but alſo to keep the Biſhops them<g ref="char:EOLhyphen"/>ſelves within the tether and compaſſe of the word of God. For if the word of God, doe approve amongſt the Miniſters of the Word and Sa<g ref="char:EOLhyphen"/>craments, a primacy of order only, &amp; denieth unto them any prima<g ref="char:EOLhyphen"/>cy of juriſdiction and power in eccleſiaſticall government, (as the learned Proteſtants have proved againſt the Papiſts touching <hi>Peters</hi> ſupremacy) then will it follow that ours alſo ought to be reduced to the ſame compaſſe, both for the Kings Majeſties ſafety, and the Chur<g ref="char:EOLhyphen"/>ches good. Leaſt Princes giving them more then God alloweth them, they ſhould themſelves looſe that right and authority, which they ought to retaine in their owne Royall perſons.</p>
+            <p>Now that it may not be objected that we begge the queſtion of Scripturely Biſhops, not having any primacy of juriſdiction &amp; power in eccleſiaſticall government, (to let paſſe all particular reaſons of the
+<pb facs="tcp:156336:4"/>Proteſtants againſt the Papiſts in this point) it ſhall ſuffice in this place to produce for witneſſes ſix and fourty Iurors, againſt whom no cha<g ref="char:EOLhyphen"/>lenge or exception can be taken; Namely, the ſaid <hi>Thomas Cranmer,</hi> Archbiſhop of Canterbury, <hi>Edward</hi> Archbiſhop of Yorke: <hi>Iohn</hi> Bi<g ref="char:EOLhyphen"/>ſhop of London: <hi>Cuthbert Dun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmen: Steven Winton: Robert Cario<g ref="char:EOLhyphen"/>len: Io. Exon: John Lincoln: Rowland Coven, and Lichfield: Thomas E<g ref="char:EOLhyphen"/>lien: Nicholas Sarum: John Banger: Edward Herefordien: Hugh Wi<g ref="char:EOLhyphen"/>gornen. Iohn Roffen. Richard Ciciſtren. William Norwicen. William Me<g ref="char:EOLhyphen"/>neven, Robert Aſſaven. Robert Landaven. Richard Wolman, Archdea<g ref="char:EOLhyphen"/>con of Sudbur. William Knight, Archdeacon of Richmond: John Bell, Archdeccon of Gloſter: Edmond Boner, Archdeacon of Leceſter: Wil<g ref="char:EOLhyphen"/>liam Skipp, Archdeacon of Dorſet: Nicholas Heath, Archdeacon of Stafford: Cuthbert Marſhall, Archdeac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of Nottingham: and Richard Curren, Archdeacon of Oxford:</hi> Together with <hi>William Cliff, Galfrid Downes, Robert Oking, Radulf Bradford, Richard Smith, Simon Mat<g ref="char:EOLhyphen"/>thew, Iohn Fryn, William Lukemaſter, William May, Nicholas Wot<g ref="char:EOLhyphen"/>ton, Richard Cox, Iohn Edmonds, Thomas Robertſon, Iohn Baker, Thomas Baret, Iohn Haſe</hi> and <hi>John Tyſon, Sacrae Theologiae, juris Eccleſiaſtici, Civilis Profeſſores.</hi>
+            </p>
+            <p>All which Archbiſhops Biſhops, Archdeacons and Prelates, having with one voyce and accord ſhewed unto King <hi>Henry</hi> the eight, that di<g ref="char:EOLhyphen"/>vers good Fathers, Biſhops of Rome, did greatly reprove and abhorre (as a thing clean contrary to the Goſpel &amp; the Decrees of the Church) that any Biſhop of Rome, or elſewhere, ſhould preſume, uſurpe, or take upon him the title and name of the univerſall Biſhop, or of the head of all Prieſts, or of the higheſt Prieſt, or any ſuch like title; proceed further, and in the end conclude, and give up their verdicts thus. <hi>For confirmation whereof,
+<note place="margin">Fol. 59.60</note> it is out of all doubt, that there is no mention made, neither in Scripture, neither in the writings of any authenticall Doctor or Author of the Church, being within the time of the Apo<g ref="char:EOLhyphen"/>ſtles, That Chriſt did ever make, or inſtitute any diſtinction or difference to be in the preeminence or power, order, or juriſdiction, betweene the Apoſtles themſelves, or between the Biſhops themſelves; but that they were all equall in power, order, authoritie and juriſdiction: and that there is now, and ſith the time of the Apoſtles, any ſuch diverſity or difference among the Biſhops, it was deviſed by the ancient Fathers, &amp;c. For the ſaid Fathers conſidering the great and infinite multitude of Chriſtian men, and taking examples of the old Teſtament, thought it
+<pb facs="tcp:156336:4"/>expedient to make an order of degrees to be amongst Biſhops and ſpiritu<g ref="char:EOLhyphen"/>all Governours of the Church; and ſo ordained ſome to bee Patriarkes, ſome to bee Primates, ſome to bee Metropolitanes, ſome to bee Arch<g ref="char:EOLhyphen"/>biſhops, ſome to be Biſhops, &amp;c. Which differences the ſaid holy Fathers thought neceſſary to enact and eſtabliſh, by their Decrees and Conſtitu<g ref="char:EOLhyphen"/>tions, nor for that any ſuch differences were preſcribed and eſtabliſhed in the Goſpell, or mentioned in any Canonicall writings of the Apoſtles, or teſtified by any Eccleſiaſticall Writer within the Apoſtles time. And thus farre their verdict.</hi>
+            </p>
+            <p>But let us grant, that orders of Biſhops, Prieſts and Deacons bee contained in the holy Scriptures, yet if thoſe orders of Biſhops, Prieſts and Deacons, which are eſtabliſhed in the booke, bee not the ſame or<g ref="char:EOLhyphen"/>ders of Biſhops Prieſts &amp; Deacons, which are authoriſed by the Scrip<g ref="char:EOLhyphen"/>tures: then (through the aequivocation of theſe words: <hi>Orders of Bi<g ref="char:EOLhyphen"/>ſhops, Prieſts and Deacons)</hi> there being <hi>a falacie:</hi> how ſhould this forme and manner of ſubſcription be lawfull? <hi>viz.</hi> that the book con<g ref="char:EOLhyphen"/>taineth nothing contrary to the word of God, and that it lawfully may be uſed. For onely ſuch orders of Biſhops, Prieſts and Deacons, ought to be acknowledged, ſubſcribed unto, and uſed, as by the holy Scriptures are warranted. And therefore ſuch as are contained in the booke, if ſo be they be divers from thoſe which are approved in the holy ſcriptures, how ſhould they without ſinne be ſubſcribed unto, and uſed? Vnleſſe wee ſhall affirme, that Miniſters of the Goſpell of God, may rightfully approve of ſuch orders of Miniſters, as the Lord and Lawgiver of the Goſpell never allowed ne approved.</p>
+            <p>And thus much have we ſpoken touching not ſubſcription, touching the not exact uſe of the order and forme of the booke of Common prayer, and touching the not preciſe practiſe and wearing of the rites, ceremonies and ornaments of the Church.</p>
+            <p>Wherein, if we have ſpoken otherwiſe then as for our ſpeaking we have warrant from the Kings laws, our earneſt deſire is, that it may be ſhewed unto us wherein we have erred. For if there bee any thing whereof we be ignorant, we ſhall be willing to be taught the ſame, and having learned it, to yeeld to the practiſe thereof.</p>
+            <p>In the mean time, ſeeing not to weare a Surplice in the miniſtration of divine ſervice, not to make a croſſe in Baptiſme, &amp; not to ſubſcribe, &amp;c. in it ſelfe, it not a ſinne againſt any commandement of God nor a thing ſcandalous unto the people: and ſeeing alſo that Parſons who re<g ref="char:EOLhyphen"/>fuſe
+<pb facs="tcp:156336:5"/>to weare and uſe the ſame, be in every reſpect men of good note, condition, fame, quality and behaviour; yea, and ſuch as againſt whom no miſdemeanor for doctrine or life, which might aggravate their of<g ref="char:EOLhyphen"/>fence, can juſtly be objected, we may lawfully (as we thinke) conclude in their behalfe, that <hi>de aequitate &amp; miſericordia juris,</hi> they ought to be reſpected and tolerated, rather then for their refuſall meerly ſtanding upon their conſciences, (whether erroneous or not erroneous, it ſkil<g ref="char:EOLhyphen"/>leth not) <hi>de rigore juris,</hi> (if there be any ſuch rigour) to be ſuſpended, excommunicated or deprived; yea, and in ſo generall and doubtfull a caſe of conſcience, upon ſo ſlender a ground of perjury and contempt, upon perſons every way ſo peaceable and well qualified, and wherein no ſcandall hath enſued, we ſuppoſe it cannot be ſhewed among all the decrees and ſentences recorded, among all the Popiſh Canoniſts, that ever any Popiſh ordinaries, in any age, have uſed the like judiciall ri<g ref="char:EOLhyphen"/>gour againſt any their Popiſh Prieſts.</p>
+            <p>It is to be noted, that the forraigne Canon law, is none otherwiſe in any part of this treatiſe intended to be the Kings Eccleſiaſticall law, then onely upon a falſe ſuppoſition of the Archbiſhops and Biſhops: Becauſe the ſame law is yet uſed and practiſed in their Conſiſtory, not<g ref="char:EOLhyphen"/>withſtanding it hath been long ſince aboliſhed by Act of Parliament.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
